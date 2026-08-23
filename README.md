@@ -51,3 +51,8 @@ Actualmente funciona mediante consola y Java puro, sin frameworks ni base de dat
 - Manejo de excepciones personalizadas
 - Mejoras en las reglas de CuentaCorriente
 - Persistencia de datos
+
+## Tecnologías
+
+- Java
+- IntelliJ IDEA
